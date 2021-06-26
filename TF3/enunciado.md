@@ -1,0 +1,1 @@
+O enunciado do exercício se encontra em um áudio de aproximadamente 1 hora e 16 minutos. O objetivo é ouvir as demandas do entrevistado e implementar um banco que possa suprir tais necessidades.
